@@ -19,7 +19,7 @@ function Projects() {
                 "A personal portfolio built with React and Tailwind CSS, showcasing my skills, projects, and experience.",
             image: project2,
             technologies: ["React", "Tailwind CSS", "JavaScript", "GitHub", "Vercel"],
-            liveLink: "https://your-portfolio.vercel.app",
+            liveLink: "https://gio-dev-portfolio.vercel.app/",
         },
     ];
 
